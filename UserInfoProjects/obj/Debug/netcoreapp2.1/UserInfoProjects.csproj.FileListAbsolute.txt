@@ -1,0 +1,14 @@
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\bin\Debug\netcoreapp2.1\UserInfoProjects.deps.json
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\bin\Debug\netcoreapp2.1\UserInfoProjects.runtimeconfig.json
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\bin\Debug\netcoreapp2.1\UserInfoProjects.runtimeconfig.dev.json
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\bin\Debug\netcoreapp2.1\UserInfoProjects.dll
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\bin\Debug\netcoreapp2.1\UserInfoProjects.pdb
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.csprojAssemblyReference.cache
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.csproj.CoreCompileInputs.cache
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.RazorAssemblyInfo.cache
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.RazorAssemblyInfo.cs
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.AssemblyInfoInputs.cache
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.AssemblyInfo.cs
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.RazorTargetAssemblyInfo.cache
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.dll
+C:\Users\DST\source\repos\TestEnttity\UserInfoProjects\obj\Debug\netcoreapp2.1\UserInfoProjects.pdb
